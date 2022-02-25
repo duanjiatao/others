@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-25T03:30:11.030Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36 Edg/98.0.1108.50" etag="aFbWHDuM0C1dFM4dyTgk" version="16.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-25T03:31:41.112Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36 Edg/98.0.1108.50" etag="4PzLhMruBN3bdeD2pu3T" version="16.4.5" type="github">
   <diagram id="UmWB6mA-8zo986hLE9dD" name="Page-1">
     <mxGraphModel dx="1550" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -117,7 +117,7 @@
         <mxCell id="RsstTSIoHTFgfg_VdX8D-7" value="商户-卡 维度" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="770" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RsstTSIoHTFgfg_VdX8D-9" value="商户-卡 维度" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="RsstTSIoHTFgfg_VdX8D-9" value="xxx 维度" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="930" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RsstTSIoHTFgfg_VdX8D-14" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;align=left;" parent="1" vertex="1">
